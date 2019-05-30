@@ -1,0 +1,14 @@
+body {
+    background-color: beige;
+    color: rgb(94, 6, 24);
+}
+
+nav ul li {
+    display: inline-block;
+    margin-top: 8px;
+    margin-right: 8px;
+}
+
+.main_img {
+    border: solid 2px black;
+}
